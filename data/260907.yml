@@ -5,18 +5,18 @@ about:
   head: 82a973c
   archived: false
   latestVersion: "v1.10.1"
-  collectedAt: 2026-09-07T04:35:16Z
+  collectedAt: 2026-09-07T20:02:18Z
 timeline:
   created: 2022-08-22
   lastCommit: 2024-07-27
   lastRelease: 2025-02-09
 popularity:
-  star: 164843
+  star: 164849
   watcher: 1270
-  fork: 30556
+  fork: 30557
   release: 27
   contributor: 588
-  pullRequest: 3365
+  pullRequest: 3366
   issue: 7912
 language:
   Python: 1840622
@@ -84,7 +84,7 @@ total:
   commit: 7689
 ---
 path: /home/runner/.x-repo/github.com/AUTOMATIC1111/stable-diffusion-webui
-collectedAt: 2026-09-07T04:35:20Z
+collectedAt: 2026-09-07T20:02:24Z
 loc:
   Python:
     code: 33308
@@ -150,7 +150,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:35:22+00:00
+  collectedAt: 2026-09-07T20:02:25+00:00
   platform:
     darwin/arm64:
       name:  null

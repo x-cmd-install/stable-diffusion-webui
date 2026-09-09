@@ -7,7 +7,7 @@ Stable Diffusion web UI
 - **Latest release**: `v1.10.1` (2025-02-09)
 - **Last commit**: 2024-07-27
 - **License**: AGPL-3.0
-- **Stars**: 164869 · **Forks**: 30550 · **Open issues**: 7913 · **Contributors**: 588
+- **Stars**: 164877 · **Forks**: 30545 · **Open issues**: 7913 · **Contributors**: 588
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/stable-diffusion-webui> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:43:26Z._
+_Last regenerated: 2026-09-09T18:36:57Z._

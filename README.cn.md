@@ -4,7 +4,7 @@
 
 Stable Diffusion web UI
 
-![stable-diffusion-webui](https://repo.x-cmd.io/stable-diffusion-webui.svg)
+![stable-diffusion-webui](https://repo.x-cmd.io/stable-diffusion-webui.svg?lang=zh)
 
 ## 安装
 
@@ -21,23 +21,22 @@ x install stable-diffusion-webui
 
 - **最新版本**: `v1.10.1` (2025-02-09)
 - **最近提交**: 2024-07-27
-- **发布时间**: 2025-02-09T08:00:10Z
 
 ## 流行度
 
-- **Star**: 164,882 · **Fork**: 30,546 · **开放 issue**: 7,913 · **贡献者**: 588
+- **Star**: 164,885 · **Fork**: 30,546 · **开放 issue**: 7,913 · **贡献者**: 588
 
 ## 累计统计
 
-- **发布数**: 27 · **已合并 PR**: 1875 · **开放 PR**: 84 · **已关闭 issue**: 5491 · **开放 issue**: 2422 · **提交数**: 7689
+- **发布数**: 27 · **已合并 PR**: 1875 · **开放 PR**: 87 · **已关闭 issue**: 5491 · **开放 issue**: 2422 · **提交数**: 7689
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 6 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 14 | 0 | 8 | 0 |
-| 360d | 2025-09-15 | 0 | 5 | 28 | 29 | 63 | 0 |
+| 30d | 2026-08-11 | 0 | 0 | 9 | 0 | 1 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 17 | 0 | 8 | 0 |
+| 360d | 2025-09-15 | 0 | 5 | 31 | 29 | 63 | 0 |
 
 ## 代码规模
 
@@ -60,4 +59,4 @@ stable-diffusion-webui 的安装元数据由 [x-cmd/install](https://github.com/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:42:57Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:29:06Z._

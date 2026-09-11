@@ -43,8 +43,8 @@
   "body": "## 1.10.1\r\n\r\n### Bug Fixes:\r\n* fix image upscale on cpu ([#16275](https://github.com/AUTOMATIC1111/stable-diffusion-webui/pull/16275))",
   "reactions": {
     "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/releases/199234651/reactions",
-    "total_count": 193,
-    "+1": 69,
+    "total_count": 194,
+    "+1": 70,
     "-1": 0,
     "laugh": 29,
     "hooray": 20,

@@ -4,7 +4,7 @@
 
 Stable Diffusion web UI
 
-![stable-diffusion-webui](https://repo.x-cmd.io/stable-diffusion-webui.svg)
+[![x-cmd/install — stable-diffusion-webui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/stable-diffusion-webui.svg)](https://x-cmd.com/install/stable-diffusion-webui)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **39,796** lines of code across **263** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 164,996 · **Forks**: 30,937 · **Open issues**: 7,913 · **Contributors**: 588
+- **Stars**: 165,027 · **Forks**: 31,163 · **Open issues**: 7,913 · **Contributors**: 588
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **39,796** lines of code across **263** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 7 | 0 | 2 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 11 | 0 | 8 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 18 | 8 | 22 | 0 |
-| 360d | 2025-09-23 | 0 | 4 | 26 | 29 | 63 | 0 |
-| last720d | 2024-09-28 | 1 | 39 | 58 | 93 | 201 | 0 |
+| 30d | 2026-08-21 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 7 | 0 | 2 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 11 | 0 | 8 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 18 | 8 | 20 | 0 |
+| 360d | 2025-09-25 | 0 | 4 | 26 | 29 | 63 | 0 |
+| last720d | 2024-09-30 | 1 | 39 | 58 | 93 | 201 | 0 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for stable-diffusion-webui lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:01:21Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:03:56Z._

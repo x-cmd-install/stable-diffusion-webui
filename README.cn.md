@@ -4,7 +4,7 @@
 
 Stable Diffusion web UI
 
-[![x-cmd/install — stable-diffusion-webui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/stable-diffusion-webui.svg?lang=zh)](https://x-cmd.com/install/stable-diffusion-webui)
+[![x-cmd/install — stable-diffusion-webui Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/stable-diffusion-webui.svg?lang=zh)](https://x-cmd.com/install/stable-diffusion-webui)
 
 ## 安装
 
@@ -36,22 +36,22 @@ x install stable-diffusion-webui
 
 ## 流行度
 
-- **Star**: 165,054 · **Fork**: 31,251 · **开放 issue**: 7,914 · **贡献者**: 588
+- **Star**: 165,074 · **Fork**: 31,252 · **开放 issue**: 7,914 · **贡献者**: 588
 
 ## 累计统计
 
-- **发布数**: 27 · **已合并 PR**: 1875 · **开放 PR**: 82 · **已关闭 issue**: 5491 · **开放 issue**: 2423 · **提交数**: 7689
+- **发布数**: 27 · **已合并 PR**: 1875 · **开放 PR**: 83 · **已关闭 issue**: 5491 · **开放 issue**: 2423 · **提交数**: 7689
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 3 | 0 | 2 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 7 | 0 | 3 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 10 | 0 | 7 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 18 | 8 | 21 | 0 |
-| 360d | 2025-09-27 | 0 | 4 | 24 | 29 | 64 | 0 |
-| last720d | 2024-10-02 | 1 | 39 | 58 | 92 | 200 | 0 |
+| 30d | 2026-08-24 | 0 | 0 | 4 | 0 | 2 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 8 | 0 | 3 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 11 | 0 | 7 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 19 | 8 | 21 | 0 |
+| 360d | 2025-09-28 | 0 | 4 | 25 | 29 | 64 | 0 |
+| last720d | 2024-10-03 | 1 | 38 | 59 | 92 | 200 | 0 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ stable-diffusion-webui 的安装元数据由 [x-cmd/install](https://github.com/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:59:46Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:52:27Z._

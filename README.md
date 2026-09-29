@@ -36,22 +36,22 @@ Total: **39,796** lines of code across **263** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 165,144 · **Forks**: 31,930 · **Open issues**: 7,915 · **Contributors**: 588
+- **Stars**: 165,145 · **Forks**: 32,033 · **Open issues**: 7,915 · **Contributors**: 588
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 1875 · **Open PRs**: 83 · **Closed issues**: 5491 · **Open issues**: 2424 · **Commits**: 7689
+- **Releases**: 27 · **Merged PRs**: 1875 · **Open PRs**: 84 · **Closed issues**: 5491 · **Open issues**: 2424 · **Commits**: 7689
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 4 | 0 | 3 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 8 | 0 | 3 | 0 |
-| 90d | 2026-06-30 | 0 | 0 | 11 | 0 | 7 | 0 |
-| last180d | 2026-04-01 | 0 | 0 | 18 | 7 | 21 | 0 |
-| 360d | 2025-10-03 | 0 | 4 | 25 | 29 | 65 | 0 |
-| last720d | 2024-10-08 | 1 | 37 | 59 | 91 | 197 | 0 |
+| 30d | 2026-08-30 | 0 | 0 | 3 | 0 | 3 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 9 | 0 | 3 | 0 |
+| 90d | 2026-07-01 | 0 | 0 | 12 | 0 | 7 | 0 |
+| last180d | 2026-04-02 | 0 | 0 | 19 | 7 | 21 | 0 |
+| 360d | 2025-10-04 | 0 | 4 | 26 | 29 | 65 | 0 |
+| last720d | 2024-10-09 | 1 | 37 | 60 | 91 | 197 | 0 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for stable-diffusion-webui lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:25:57Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:56:18Z._
